@@ -1,0 +1,4 @@
+C:\Users\blurryRobot\Desktop\Development\WannaGo\src\BeeThere\bin\Debug\netcoreapp1.1\BeeThere.deps.json
+C:\Users\blurryRobot\Desktop\Development\WannaGo\src\BeeThere\bin\Debug\netcoreapp1.1\BeeThere.runtimeconfig.json
+C:\Users\blurryRobot\Desktop\Development\WannaGo\src\BeeThere\bin\Debug\netcoreapp1.1\BeeThere.runtimeconfig.dev.json
+C:\Users\blurryRobot\Desktop\Development\WannaGo\src\BeeThere\obj\Debug\netcoreapp1.1\BeeThere.AssemblyInfo.cs
